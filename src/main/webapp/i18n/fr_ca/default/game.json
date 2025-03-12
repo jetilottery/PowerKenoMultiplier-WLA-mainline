@@ -1,0 +1,98 @@
+{
+    "version": "4-24-2019-10:30am-SM-defaut_01",
+    "audioLoader": {
+        "yes": "Oui",
+        "no": "Non",
+        "confirm": "Activer le son?"
+    },
+    "Paytable": {
+        "RTPvalue": "est de {@minRTP} %",
+        "RTPrange": "varie de {@minRTP} % à {@maxRTP} %",
+        "paybackTitle": "Taux de retour théorique",
+        "paybackBody": "Pour ce jeu, le taux de retour théorique moyen à long terme est de {RTP}."
+    },
+    "title": "StarshipKenoMultiplier",
+    "MenuCommand": {
+        "WLA": {
+            "howToPlay": "Aide",
+            "multiplierTable": "MULTIPLICATEUR",
+            "prizeTable": "TABLE DE PAIEMENT",
+            "payTable": "Table de paiement",
+            "spot": "Cases",
+            "price": "Prix",
+            "stake": "Mise",
+            "balance": "Solde",
+            "button_autoPlay": "JOUER"
+        },
+        "Commercial": {
+            "howToPlay": "Aide",
+            "multiplierTable": "MULTIPLICATEUR",
+            "prizeTable": "TABLE DE PAIEMENT",
+            "payTable": "Table de paiement",
+            "spot": "Cases",
+            "price": "Prix",
+            "stake": "Mise",
+            "balance": "Solde",
+            "button_autoPlay": "JOUER"
+        },
+        "audio": {
+            "on": "Activé",
+            "off": "Désactivé",
+            "sound": "Son"
+        }
+    },
+    "Error": {
+        "error29000": "Erreur : 29000\n\nUne erreur interne est survenue.\nQuittez le jeu et relancez-le.",
+        "lostConnection": "Bris de communication!"
+    },
+    "Game": {
+        "demo": "ESSAYER ",
+        "button_buy": "ACHETER",
+        "button_try": "ESSAYER",
+        "button_continue": "CONTINUER",
+        "button_move2moneyGame": "MODE ARGENT RÉEL",
+        "button_playAgain": "JOUER DE NOUVEAU",
+        "button_MTMPlayAgain": "ESSAYER DE NOUVEAU",
+        "button_stop": "ARRÊTER",
+        "button_quickPick": "SÉLECTION RAPIDE",
+        "button_clear": "ANNULER TOUT",
+        "button_radar": "VITESSE",
+        "spot": "CASES",
+        "wager": "COÛT DU BILLET",
+        "meter_wager": "COÛT DU BILLET",            
+        "balance": "SOLDE",
+        "wins": "GAIN",
+        "wins_demo": "GAIN FICTIF",
+        "message_nonWin": "MEILLEURE CHANCE\nLA PROCHAINE FOIS",
+        "message_buyWin": "FÉLICITATIONS!\nVous avez gagné",
+        "message_tryWin": "MERCI D’AVOIR JOUÉ!\nVous auriez pu gagner",
+        "message_anonymousTryWin": "MERCI D’AVOIR JOUÉ!\nVous auriez pu gagner",
+        "message_close": "OK",
+        "simple_buywin": "GAIN TOTAL",
+        "simple_trywin": "GAIN TOTAL FICTIF",
+        "simple_anonymousTrywin": "GAIN TOTAL FICTIF",
+        "picks_remain": "Sélections restantes",
+        "pick_remain": "Sélection restante",
+        "button_exit": "QUITTER",
+        "session_timeout_warning_exit_button": "QUITTER",
+        "error_button_exit": "QUITTER",
+        "warning_button_continue": "CONTINUER",
+        "warning_button_exitGame": "QUITTER",
+        "warning_title": "ATTENTION",
+        "error_title": "ERREUR",
+        "win_up_to": "GAGNEZ JUSQU’À",
+        "win_up_to_mark": "!",
+        "tutorial_title": "COMMENT JOUER",
+        "tutorial_00_landscape": "Sélectionnez de 1 à 10 cases dans la grille de numéros et appuyez sur JOUER.\nSix cases comprenant des multiplicateurs sont ajoutées à la grille de jeu.\nSi les numéros que vous avez sélectionnés sont identiques aux numéros Keno tirés, \nvous gagnez le lot correspondant dans la table de paiement.\nLorsque deux cases comprenant des multiplicateurs ou plus correspondent \naux numéros que vous avez sélectionnés, le lot accordé est multiplié!",
+        "tutorial_00_portrait": "Sélectionnez de 1 à 10 cases dans la grille\nde numéros et appuyez sur JOUER.\nSix cases comprenant des multiplicateurs sont ajoutées à la grille de jeu.\nSi les numéros que vous avez sélectionnés sont identiques aux numéros Keno tirés, \nvous gagnez le lot correspondant dans la table de paiement.\nLorsque deux cases comprenant des multiplicateurs ou plus\ncorrespondent aux numéros que vous avez sélectionnés, le lot accordé est multiplié!",
+        "meter_division": " | ",
+        "match": "Correspondances",
+        "spots": "Cases",
+        "buttonClose": "X",
+        "paytableWager": "Coût du billet : ",
+        "flip": "DISTRIBUER",
+        "description": "Description",
+        "tableMatchText": "Correspondances",
+        "tablePrizeText": "Lot"
+    }
+}

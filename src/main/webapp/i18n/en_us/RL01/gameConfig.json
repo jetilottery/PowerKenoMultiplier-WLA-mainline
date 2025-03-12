@@ -1,0 +1,11 @@
+{
+    "showTutorialAtBeginning": false,
+    "showHowToPlayOnLoad": false,
+    "suppressNonWinResultPlaque": true,
+    "enableAudioDialog ": false,
+    "showResultScreen": true,
+    "paytableShow_OddsPerTier": true,
+    "consoleEnabledDuringPlay": true,
+    "paytable_AdditionalText": "",
+    "paytable_Links": ""
+}

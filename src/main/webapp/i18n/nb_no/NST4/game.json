@@ -1,0 +1,105 @@
+{
+    "version": "4-24-2019-10:30am-SM-defaut_01",
+    "audioLoader":
+    {
+        "yes": "Ja",
+        "no": "Nei",
+        "confirm": "Ønsker du lyder?"
+    },
+    "Paytable":
+    {
+        "RTPvalue": "er {@minRTP}%",
+        "RTPrange": "er fra {@minRTP}% til {@maxRTP}%",
+        "paybackTitle": "Premieandel",
+        "paybackBody": " For dette spillet er langsiktig, teoretisk oppgitt premieandel{RTP}."
+    },
+    "title": "Laser Keno",
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "Slik spiller du",
+            "multiplierTable": "MULTIPLIKATOR",
+            "prizeTable": "PREMIEOVERSIKT",
+            "payTable": "Premieoversikt",
+            "spot": "Punkter",
+            "price": "Pris",
+            "stake": "Innsats",
+            "balance": "Saldo",
+            "button_autoPlay": "START"
+        },
+        "Commercial":
+        {
+            "howToPlay": "Slik spiller du",
+            "multiplierTable": "MULTIPLIKATOR",
+            "prizeTable": "PREMIEOVERSIKT",
+            "payTable": "Premieoversikt",
+            "spot": "Punkter",
+            "price": "Pris",
+            "stake": "Innsats",
+            "balance": "Saldo",
+            "button_autoPlay": "START"
+        },
+        "audio":
+        {
+            "on": "På",
+            "off": "Av",
+            "sound": "Lyd"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Feil:29000\n\nDet har oppstått en intern feil.\nAVSLUTT og start spillet på nytt."
+    },
+    "Game":
+    {
+        "demo": "PRØVESPILL ",
+        "button_buy": "SPILL",
+        "button_try": "PRØVESPILL",
+        "button_continue": "FORTSETT",
+        "button_move2moneyGame": "SPILL FOR EKTE PENGER",
+        "button_playAgain": "SPILL IGJEN",
+        "button_MTMPlayAgain": "SPILL IGJEN",
+        "button_stop": "STOPP",
+        "button_quickPick": "HURTIGVALG",
+        "button_clear": "TØM",
+        "button_radar": "HASTIGHET",
+        "spot": "TALL",
+        "wager": "PRIS",
+        "meter_wager": "PRIS",
+        "balance": "SALDO",
+        "wins": "PREMIE",
+        "wins_demo": "PREMIE PRØVESPILL",
+        "message_nonWin": "BEKLAGER,\nINGEN PREMIE",
+        "message_buyWin": "GRATULERER\nDU VANT!",
+        "message_tryWin": "HADDE DETTE VÆRT ET SPILL FOR EKTE PENGER,\nHADDE DU VUNNET",
+        "message_anonymousTryWin": " HADDE DETTE VÆRT ET SPILL FOR EKTE PENGER,\nHADDE DU VUNNET",
+        "message_close": "OK",
+        "simple_buywin": "PREMIE",
+        "simple_trywin": "PREMIE PRØVESPILL",
+        "simple_anonymousTrywin": "PREMIE PRØVESPILL",
+        "picks_remain": "Valg gjenstår",
+        "pick_remain": "Valg gjenstår",
+        "button_exit": "LUKK",
+        "session_timeout_warning_exit_button": "LUKK",
+        "error_button_exit": "LUKK",
+        "warning_button_continue": "FORTSETT",
+        "warning_button_exitGame": "LUKK",
+        "warning_title": "ADVARSEL",
+        "error_title": "FEIL",
+        "win_up_to": "TOPPREMIE",
+        "win_up_to_mark": "!",
+        "tutorial_title": "SLIK SPILLER DU",
+        "tutorial_00_landscape": "Velg fra 1 til 10 tall på brettet og trykk på START.\n6 multiplikatorpunkter legges til på brettet.\nMatch tall i henhold til premieoversikten for å vinne.\nMatch 2 eller flere multiplikatorpunkter for å multiplisere premien!",
+        "tutorial_00_portrait": "Velg fra 1 til 10 tall på brettet\nog trykk på START.\n6 multiplikatorpunkter legges til på brettet.\nMatch tall i henhold til\npremieoversikten for å vinne.\nMatch 2 eller flere multiplikatorpunkter\nfor å multiplisere premien!",
+        "meter_division": " | ",
+        "match": "Match",
+        "spots": "Punkter",
+        "buttonClose": "X",
+        "paytableWager": "Pris: ",
+        "flip": "DEL UT",
+        "description": "Beskrivelse",
+        "tableMatchText": "Match",
+        "tablePrizeText": "Premie"
+    }
+}

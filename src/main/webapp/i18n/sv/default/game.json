@@ -1,0 +1,98 @@
+{
+  "version": "4-24-2019-10:30am-SM-defaut_01",
+  "audioLoader": {
+    "yes": "Ja",
+    "no": "Nej",
+    "confirm": "Vill du ha ljud?"
+  },
+  "Paytable": {
+    "RTPvalue": "är {@minRTP}%",
+    "RTPrange": "är från {@minRTP}% till {@maxRTP}%",
+    "paybackTitle": "Förväntad återbetalning",
+    "paybackBody": "I det här spelet är den långsiktiga, teoretiskt förväntade återbetalningen {RTP}."
+  },
+  "title": "StarshipKenoMultiplier",
+  "MenuCommand": {
+    "WLA": {
+      "howToPlay": "Hjälp",
+      "multiplierTable": "MULTIPLIKATOR",
+      "prizeTable": "PRISTABELL",
+      "payTable": "Pristabell",
+      "spot": "Platser",
+      "price": "Pris",
+      "stake": "Insats",
+      "balance": "Saldo",
+      "button_autoPlay": "KÖR"
+    },
+    "Commercial": {
+      "howToPlay": "Hjälp",
+      "multiplierTable": "MULTIPLIKATOR",
+      "prizeTable": "PRISTABELL",
+      "payTable": "Vinsttabell",
+      "spot": "Platser",
+      "price": "Pris",
+      "stake": "Insats",
+      "balance": "Saldo",
+      "button_autoPlay": "KÖR"
+    },
+    "audio": {
+      "on": "På",
+      "off": "Av",
+      "sound": "Ljud"
+    }
+  },
+  "Error": {
+    "error29000": "Fel:29000\n\nDet har inträffat ett internt fel.\nLÄMNA och starta om spelet.",
+        "lostConnection": "Förlorad anslutning!"
+  },
+  "Game": {
+    "demo": "PRÖVA ",
+    "button_buy": "KÖP",
+    "button_try": "PRÖVA",
+    "button_continue": "FORTSÄTT",
+    "button_move2moneyGame": "FLYTTA TILL PENGAR",
+    "button_playAgain": "SPELA IGEN",
+    "button_MTMPlayAgain": "FÖRSÖK IGEN",
+    "button_stop": "STOPP",
+    "button_quickPick": "SNABBVÄLJ",
+    "button_clear": "RENSA",
+    "button_radar": "HASTIGHET",
+    "spot": "PLATSER",
+    "wager": "LOTTKOSTNAD",
+    "meter_wager": "LOTTKOSTNAD",
+    "balance": "SALDO",
+    "wins": "VINST",
+    "wins_demo": "DEMOVINST",
+    "message_nonWin": "BÄTTRE LYCKA\nNÄSTA GÅNG",
+    "message_buyWin": "GRATTIS!\nDu har vunnit",
+    "message_tryWin": "TACK FÖR ATT DU SPELAR!\nDu kunde ha vunnit",
+    "message_anonymousTryWin": "TACK FÖR ATT DU SPELAR!\nDu kunde ha vunnit",
+    "message_close": "OK",
+    "simple_buywin": "TOTAL VINST",
+    "simple_trywin": "TOTAL DEMOVINST",
+    "simple_anonymousTrywin": "TOTAL DEMOVINST",
+    "picks_remain": "Återstående val",
+    "pick_remain": "Återstående val",
+    "button_exit": "LÄMNA",
+    "session_timeout_warning_exit_button": "LÄMNA",
+    "error_button_exit": "LÄMNA",
+    "warning_button_continue": "FORTSÄTT",
+    "warning_button_exitGame": "LÄMNA",
+    "warning_title": "VARNING",
+    "error_title": "FEL",
+    "win_up_to": "VINN UPP TILL",
+    "win_up_to_mark": "!",
+    "tutorial_title": "SÅ HÄR SPELAR DU",
+    "tutorial_00_landscape": "Välj 1 till 10 platser på nummerbrickan och tryck på KÖR.\n6 multiplikatorplatser läggs till på brickan.\nMatcha nummer enligt pristabellen för att vinna.\nMatcha 2 eller fler multiplikatorplatser för att multiplicera priset!",
+    "tutorial_00_portrait": "Välj 1 till 10 platser på nummerbrickan\noch tryck på KÖR.\n6 multiplikatorplatser läggs till på brickan.\nMatcha nummer enligt pristabellen\nför att vinna.\nMatcha 2 eller fler multiplikatorplatser\nför att multiplicera priset!",
+    "meter_division": " | ",
+    "match": "Matcha",
+    "spots": "Platser",
+    "buttonClose": "X",
+    "paytableWager": "Lottkostnad: ",
+    "flip": "GIV",
+    "description": "Beskrivning",
+    "tableMatchText": "Matcha",
+    "tablePrizeText": "Pris"
+  }
+}

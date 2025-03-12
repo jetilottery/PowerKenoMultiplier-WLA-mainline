@@ -1,0 +1,39 @@
+{"frames": {
+
+"nowinPlaque_0014.png":
+{
+	"frame": {"x":1,"y":1,"w":840,"h":690},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":840,"h":690},
+	"sourceSize": {"w":840,"h":690}
+},
+"nowinPlaque_0015.png":
+{
+	"frame": {"x":693,"y":1,"w":840,"h":690},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":840,"h":690},
+	"sourceSize": {"w":840,"h":690}
+},
+"nowinPlaque_0016.png":
+{
+	"frame": {"x":693,"y":693,"w":840,"h":690},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":840,"h":690},
+	"sourceSize": {"w":840,"h":690}
+}},
+"animations": {
+	"nowinPlaque": ["nowinPlaque_0014.png","nowinPlaque_0015.png","nowinPlaque_0016.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "UIBgEffectsD.png",
+	"format": "RGBA8888",
+	"size": {"w":1534,"h":1384},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9dccc99e4f49cb7e7a139e7b24e85b72:e287442b562537fdd92022fbbe950f25:f9b529c7ab0d97e3a7d56e6ef697f3d8$"
+}
+}

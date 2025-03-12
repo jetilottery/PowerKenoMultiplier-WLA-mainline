@@ -1,0 +1,22 @@
+{"frames": {
+
+"winPlaque_0012.png":
+{
+	"frame": {"x":1,"y":1,"w":824,"h":645},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":10,"w":824,"h":645},
+	"sourceSize": {"w":840,"h":690}
+}},
+"animations": {
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "winPlaqueC.png",
+	"format": "RGBA8888",
+	"size": {"w":826,"h":647},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9467f8d964fc9f435a2aa507e155f0e4:e1f346ee72cc0c940bcba39e83b7748d:238613584dcbb937930ad8fb19c0b5da$"
+}
+}

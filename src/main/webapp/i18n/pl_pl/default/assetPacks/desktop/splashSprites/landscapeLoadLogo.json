@@ -1,0 +1,20 @@
+{"frames": {
+
+"landscapeLoadLogo.png":
+{
+	"frame": {"x":1,"y":1,"w":934,"h":477},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":6,"w":934,"h":477},
+	"sourceSize": {"w":1008,"h":488}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "landscapeLoadLogo.png",
+	"format": "RGBA8888",
+	"size": {"w":936,"h":479},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3b35e4b4971f55020d78e66981825fdd:e3d0f5ff52cfe451184a73742ad85672:742e6c38689401d7fd851c02a5a5cbba$"
+}
+}

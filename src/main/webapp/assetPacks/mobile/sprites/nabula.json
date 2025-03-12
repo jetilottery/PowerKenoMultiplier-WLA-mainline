@@ -1,0 +1,31 @@
+{"frames": {
+
+"nabula_3.png":
+{
+	"frame": {"x":1,"y":1,"w":500,"h":412},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":500,"h":412},
+	"sourceSize": {"w":500,"h":412}
+},
+"nabula_4.png":
+{
+	"frame": {"x":1,"y":415,"w":425,"h":164},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":425,"h":164},
+	"sourceSize": {"w":425,"h":164}
+}},
+"animations": {
+	"nabula": ["nabula_3.png","nabula_4.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "nabula.png",
+	"format": "RGBA8888",
+	"size": {"w":502,"h":580},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:225f1f30c9b6114a8f1393d5bc9318c2:9c775747c192b080c91a1dbc88398671:2454aeafbd93df2fba1f40f66bd8b146$"
+}
+}

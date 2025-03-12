@@ -1,0 +1,21 @@
+{
+  "urls": [
+    "ch4.mp3",
+    "ch4.ogg",
+    "ch4.m4a"
+  ],
+  "sprite": {
+    "BackgroundMusicLoop": [
+      0,
+      16000
+    ],
+    "BackgroundMusicWinTerm": [
+      16050,
+      4103.741496598641
+    ],
+    "BackgroundMusicNoWinTerm": [
+      21100,
+      4184.013605442175
+    ]
+  }
+}
